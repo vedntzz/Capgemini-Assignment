@@ -1,0 +1,11 @@
+body {
+    background-color: green;
+  }
+ h2 {
+    color: red;
+    text-decoration: underline;
+  }
+  h2.visited{
+      color:blue
+      ;
+  }

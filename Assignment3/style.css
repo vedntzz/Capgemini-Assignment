@@ -1,0 +1,15 @@
+ 
+body {
+    background-color: forestgreen;
+  }
+ h1 {
+    text-transform: uppercase;
+  }
+  
+  h2 {
+    text-transform: capitalize;
+  }
+  
+  h3 {
+    text-transform: capitalize;
+  } 

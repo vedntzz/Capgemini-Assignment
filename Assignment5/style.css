@@ -1,0 +1,9 @@
+table{
+    width: 100px;
+}
+th {
+    text-decoration:wavy red;
+  }
+table,th,td{
+    border: 1px solid black;
+}
